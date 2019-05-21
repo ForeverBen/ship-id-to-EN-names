@@ -360,6 +360,8 @@
     "375": "I-14",
     "376": "Shimushu",
     "377": "Kunashiri",
+    "378": "Hachijou",
+    "379": "Ishigaki",
     "380": "Taiyou",
     "381": "Shinyou",
     "383": "Etorofu",
@@ -542,8 +544,13 @@
     "580": "Maestrale",
     "581": "Nisshin",
     "583": "Minegumo",
+    "584": "Hachijou",
+    "585": "Ishigaki",
     "586": "Nisshin",
+    "590": "G.Garibaldi",
     "591": "Kongou",
+    "594": "Akagi",
+    "599": "Akagi",
     "605": "Luigi Torelli",
     "606": "I-400",
     "678": "Hiburi",
@@ -555,5 +562,6 @@
     "687": "Minegumo",
     "688": "Hayanami",
     "689": "Johnston",
-    "690": "Nisshin"
+    "690": "Nisshin",
+    "691": "G.Garibaldi"
 }
