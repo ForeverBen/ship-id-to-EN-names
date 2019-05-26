@@ -550,7 +550,9 @@
     "590": "G.Garibaldi",
     "591": "Kongou",
     "594": "Akagi",
+    "596": "Fletcher",
     "599": "Akagi",
+    "601": "Colorado",
     "605": "Luigi Torelli",
     "606": "I-400",
     "678": "Hiburi",
@@ -563,5 +565,7 @@
     "688": "Hayanami",
     "689": "Johnston",
     "690": "Nisshin",
-    "691": "G.Garibaldi"
+    "691": "G.Garibaldi",
+    "692": "Fletcher",
+    "1496": "Colorado"
 }
