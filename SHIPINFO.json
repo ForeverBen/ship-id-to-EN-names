@@ -548,6 +548,7 @@
     "585": "Ishigaki",
     "586": "Nisshin",
     "587": "Umikaze",
+    "589": "L.d.S.D.d.Abruzzi",
     "590": "G.Garibaldi",
     "591": "Kongou",
     "594": "Akagi",
@@ -556,6 +557,10 @@
     "601": "Colorado",
     "605": "Luigi Torelli",
     "606": "I-400",
+    "611": "Mikura",
+    "614": "Grecale",
+    "616": "Mikura",
+    "619": "Grecale",
     "678": "Hiburi",
     "679": "Daitou",
     "680": "Hamanami",
@@ -568,5 +573,6 @@
     "690": "Nisshin",
     "691": "G.Garibaldi",
     "692": "Fletcher",
+    "693": "L.d.S.D.d.Abruzzi",
     "1496": "Colorado"
 }
